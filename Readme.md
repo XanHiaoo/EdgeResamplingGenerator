@@ -29,22 +29,22 @@
 > - 掩膜与原图
 >
 >   <center class="half">
->       <img src="https://imgurl-x.oss-cn-hangzhou.aliyuncs.com/xuxing-img/image-20240221161809437.png" width="200"/>
->       <img src="https://imgurl-x.oss-cn-hangzhou.aliyuncs.com/xuxing-img/image-20240221161804485.png" width="200"/>
+>       <img src="https://imgurl-x.oss-cn-hangzhou.aliyuncs.com/xuxing-img/image-20240221161809437.png" width="350"/>
+>       <img src="https://imgurl-x.oss-cn-hangzhou.aliyuncs.com/xuxing-img/image-20240221161804485.png" width="350"/>
 >   </center>
 >
 > - 内孔洞
 >
 >   <center class="half">
->       <img src="https://imgurl-x.oss-cn-hangzhou.aliyuncs.com/xuxing-img/image-20240221163149757.png" width="200"/>
->       <img src="https://imgurl-x.oss-cn-hangzhou.aliyuncs.com/xuxing-img/image-20240221163146723.png" width="200"/>
+>       <img src="https://imgurl-x.oss-cn-hangzhou.aliyuncs.com/xuxing-img/image-20240221163149757.png" width="350"/>
+>       <img src="https://imgurl-x.oss-cn-hangzhou.aliyuncs.com/xuxing-img/image-20240221163146723.png" width="350"/>
 >   </center>
 >
 > - 边框
 >
 >   <center class="half">
->       <img src="https://imgurl-x.oss-cn-hangzhou.aliyuncs.com/xuxing-img/image-20240221163959034.png" width="200"/>
->       <img src="https://imgurl-x.oss-cn-hangzhou.aliyuncs.com/xuxing-img/image-20240221163955724.png" width="200"/>
+>       <img src="https://imgurl-x.oss-cn-hangzhou.aliyuncs.com/xuxing-img/image-20240221163959034.png" width="350"/>
+>       <img src="https://imgurl-x.oss-cn-hangzhou.aliyuncs.com/xuxing-img/image-20240221163955724.png" width="350"/>
 >   </center>
 
 ### 重采样
