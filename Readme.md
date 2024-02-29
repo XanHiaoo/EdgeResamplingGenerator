@@ -56,3 +56,11 @@
 - 内孔
 
   ![image-20240221163826772](https://imgurl-x.oss-cn-hangzhou.aliyuncs.com/xuxing-img/image-20240221163826772.png)
+
+## 摄像孔边缘亮点缺陷示例
+
+<center class="half">
+    <img src="https://imgurl-x.oss-cn-hangzhou.aliyuncs.com/xuxing-img/image-20240229165550584.png" width="500"/>
+    <img src="https://imgurl-x.oss-cn-hangzhou.aliyuncs.com/xuxing-img/image-20240229172756789.png" width="600"/>
+</center>
+
