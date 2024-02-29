@@ -14,7 +14,7 @@ private:
     std::vector<cv::Mat> resamplingImgs_;
 
 
-    int resamplingWidth_ = 20;
+    int resamplingWidth_ = 10;
 private:
     // 连通组件算法
     std::vector<std::vector<cv::Point>> applyConnectedComponents();

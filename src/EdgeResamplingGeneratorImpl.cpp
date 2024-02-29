@@ -3,6 +3,7 @@
 EdgeResamplingGeneratorImpl::EdgeResamplingGeneratorImpl(const cv::Mat& inputImage, const cv::Mat& maskImage)
     : srcImage_(inputImage.clone()), shapeMask_(maskImage.clone())
 {
+	resamplingWidth_ = static_cast<int>(std::min(inputImage.cols, inputImage.rows)/100);
     // 如果需要，可以添加其他初始化代码
 }
 
