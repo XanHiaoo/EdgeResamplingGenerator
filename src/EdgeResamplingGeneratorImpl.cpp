@@ -178,7 +178,7 @@ std::vector<std::vector<cv::Point>> EdgeResamplingGeneratorImpl::getFilteredBord
 				double distance = cv::norm(component_order_border_points[j] - component_order_border_points[i]);
 
 				// 判断是否符合条件
-				if (distance > 15) {
+				if (distance > resamplingWidth_) {
 					i = j;  // 更新i，跳过已加入的点
 					break;
 				}
